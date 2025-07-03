@@ -53,8 +53,8 @@ Most job platforms cater primarily to white-collar sectors. This platform breaks
 
 | Layer       | Tools/Frameworks               |
 |-------------|--------------------------------|
-| **Backend** | Django                         |
-| **Frontend**| Tailwind CSS, Alpine.js        |
+| **Backend** | Django, DRF                    |
+| **Frontend**| Tailwind CSS                   |
 | **Database**| SQLite (default, configurable) |
 | **Icons**   | Font Awesome                   |
 
@@ -114,25 +114,6 @@ Below are some screenshots of the platform in action:
 
 ---
 
-### 📌 How to Show Images in README on GitHub
-
-To show screenshots in a GitHub `README.md`, use this Markdown syntax:
-
-```markdown
-![Alt Text](relative/or/full/image/path.png)
-```
-
-For example, if your image is in the `assets/` folder:
-
-```markdown
-![Home Page](assets/homepage.png)
-```
-
-Or if it’s a full GitHub image URL:
-
-```markdown
-![Job Posting](https://github.com/username/repo/blob/main/assets/job-posting.png?raw=true)
-```
 
 ✅ **Tip**: Always use `?raw=true` at the end of the GitHub image URL to display the image correctly in markdown.
 
