@@ -1,74 +1,51 @@
+# Job Portal
 
- Job Portal
+A modern job portal built using Django and Tailwind CSS, designed to connect job seekers with employers in an efficient and user-friendly way.
 
-A modern job portal built with Django and Tailwind CSS, designed to connect job seekers with employers efficiently.
+---
 
- Features
+## 🚀 Features
 
-- User Authentication: Separate sign-up and login for job seekers and employers.
-- Job Posting and Management: Employers can post and manage job listings.
-- Job Search and Filtering: Users can search for jobs using keywords and location filters.
-- Application Tracking: Job seekers can apply for jobs and track their applications.
-- Responsive Design: Optimized for both desktop and mobile devices.
-- User Profiles: Detailed profiles for both job seekers and employers.
+- **User Authentication**  
+  Separate sign-up and login flows for job seekers and employers.
 
- Tech Stack
+- **Job Posting & Management**  
+  Employers can post new job listings, edit them, and manage applications.
 
-- Backend: Django
-- Frontend: Tailwind CSS, Alpine.js
-- Database: SQLite (default, can be configured for other databases)
-- Icons: Font Awesome
+- **Job Search & Filtering**  
+  Job seekers can search jobs by keywords, location, and other filters.
 
- Installation
+- **Application Tracking**  
+  Users can apply for jobs and view the status of their applications.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/jobportal.git
-   cd jobportal
-   ```
+- **User Profiles**  
+  Detailed, role-specific user profiles for both employers and job seekers.
 
-2. Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
+- **Responsive Design**  
+  Fully mobile-optimized with a clean and minimal Tailwind UI.
 
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+---
 
-4. Run migrations:
-   ```bash
-   python manage.py migrate
-   ```
+## 🛠️ Tech Stack
 
-5. Start the development server:
-   ```bash
-   python manage.py runserver
-   ```
+| Layer       | Tools/Frameworks               |
+|-------------|--------------------------------|
+| **Backend** | Django                         |
+| **Frontend**| Tailwind CSS, Alpine.js        |
+| **Database**| SQLite (default, configurable) |
+| **Icons**   | Font Awesome                   |
 
-6. Access the application:
-   Open your web browser and go to `http://127.0.0.1:8000/`.
+---
 
-Usage
+## ⚙️ Installation & Setup
 
-- Job Seekers: Register, search for jobs, and apply directly through the platform.
-- Employers: Register, post job listings, and manage applications from job seekers.
+Follow these steps to run the project locally:
 
- Contributing
+### 1. Clone the Repository
 
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
- License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Acknowledgments
-
-- Thanks to the Django and Tailwind CSS communities for their excellent tools and documentation.
-- Icons provided by Font Awesome.
-
+```bash
+git clone https://github.com/madhavv-05/Job-Portal.git
+cd Job-Portal
 
 
 ![screencapture-127-0-0-1-8000-jobs-2024-12-05-10_17_20](https://github.com/user-attachments/assets/989e336a-d8e8-4054-91cd-ec100af51b57)
