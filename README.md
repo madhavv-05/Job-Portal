@@ -5,13 +5,13 @@ A universal, inclusive job portal built with Django and Tailwind CSS — designe
 
 ---
 
-## 🌍 Vision
+## Vision
 
 Most job platforms cater primarily to white-collar sectors. This platform breaks that boundary — connecting local employers with all types of job seekers including laborers, delivery workers, helpers, and skilled professionals. With a minimal UI and quick onboarding, it’s accessible to users regardless of their digital experience.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Universal Access**  
   Open to everyone — from factory workers to software engineers — without friction.
@@ -39,7 +39,7 @@ Most job platforms cater primarily to white-collar sectors. This platform breaks
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - Multi-language support (Hindi, Tamil, Bengali, etc.)
 - WhatsApp-based job interaction & chatbot
@@ -49,7 +49,7 @@ Most job platforms cater primarily to white-collar sectors. This platform breaks
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer       | Tools/Frameworks               |
 |-------------|--------------------------------|
@@ -60,7 +60,7 @@ Most job platforms cater primarily to white-collar sectors. This platform breaks
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ```bash
 # 1. Clone the Repository
@@ -86,7 +86,7 @@ Visit: `http://127.0.0.1:8000/`
 
 ---
 
-## 👥 Usage
+## Usage
 
 - **Job Seekers**:  
   Sign up, browse local jobs, apply with one click, and track responses.
@@ -96,7 +96,7 @@ Visit: `http://127.0.0.1:8000/`
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Below are some screenshots of the platform in action:
 
@@ -115,7 +115,7 @@ Below are some screenshots of the platform in action:
 ---
 
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome and appreciated! To contribute:
 
@@ -127,13 +127,13 @@ Contributions are welcome and appreciated! To contribute:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Django and Tailwind CSS communities for their excellent tools and documentation  
 - Font Awesome for scalable, open-source icons  
