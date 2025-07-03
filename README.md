@@ -115,10 +115,6 @@ Below are some screenshots of the platform in action:
 ---
 
 
-✅ **Tip**: Always use `?raw=true` at the end of the GitHub image URL to display the image correctly in markdown.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome and appreciated! To contribute:
