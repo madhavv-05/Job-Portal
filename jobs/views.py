@@ -5,7 +5,7 @@ from apps.jobs.models import Job
 def job_list(request):
     jobs = Job.objects.filter(is_active=True)
     
-    # Handle category filter
+    
     category_id = request.GET.get('category')
     if category_id:
         jobs = jobs.filter(category_id=category_id)
